@@ -18,4 +18,4 @@ Objectives: the student will be able to:
 
 8. Compare and contrast organismic and cellular aging, in terms of etiologic factors, pathogenesis, and effect on organism. 
 
-9. List putative mechanisms which accelerate and which retard the rate of cellular aging,
+9. List putative mechanisms which accelerate and which retard the rate of cellular aging.

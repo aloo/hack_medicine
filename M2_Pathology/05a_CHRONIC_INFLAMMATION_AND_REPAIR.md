@@ -1,6 +1,7 @@
 CHRONIC INFLAMMATION AND REPAIR
 
-OBJECTIVES: Upon completion of this section, the student will be able to:
+OBJECTIVES:
+
 1. Describe the morphologic features of a granuloma and give examples of diseases characterized by granulomatous inflammation.
 
 2. Explain the systemic effects of inflammation, including fever, leukocytosis, and sepsis, in terms of mediators involved and their actions.
