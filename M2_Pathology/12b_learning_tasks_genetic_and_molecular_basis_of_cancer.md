@@ -3,7 +3,6 @@ GENETIC AND MOLECULAR BASIS OF CANCER
 LEARNING TASKS
 
 1. Define and use in proper context:
-
 	* amplification
 	* angiogenesis
 	* apoptosis

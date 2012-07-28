@@ -2,7 +2,7 @@ CARCINOGENESIS: CHEMICAL, RADIATION, MICROBIAL
 
 OBJECTIVES:
 
-1. Discuss the various causes and mechanisms (chemical, radiation and microbial) of carcinogenesis, in terms of:	
+1. Discuss the various causes and mechanisms (chemical, radiation and microbial) of carcinogenesis, in terms of:
 	* initiation & promotion
 	* direct- vs. indirect-acting carcinogens
 	* molecular target

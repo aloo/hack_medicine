@@ -3,7 +3,6 @@ IMMUNOPATHOLOGY CONCEPTS
 LEARNING TASKS: 
 
 1. Define and use in proper context:
-
 	* allergen
 	* allergy
 	* alloantigen

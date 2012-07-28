@@ -3,7 +3,6 @@ INTRODUCTION TO NEOPLASIA
 LEARNING TASKS
 
 1. Define and use in proper context:
-
 	* adenoma
 	* anaplasia 
 	* benign
@@ -73,7 +72,6 @@ LEARNING TASKS
 5. Cite examples of variations in types of neoplasms and incidence of neoplasms related to a) geographic location and b) occupational/environmental factors.
 
 6. State the most common malignancies associated with exposure to each of the following:
-
 	* alcohol
 	* arsenic
 	* asbestos

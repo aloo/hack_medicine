@@ -3,7 +3,6 @@ HEMODYNAMIC DISORDERS, THROMBOEMBOLIC DISEASE, AND SHOCK
 LEARNING TASKS
 
 1. Define and use in proper context:
-			
 	* acute tubular necrosis (ATN)
 	* anaphylactic shock
 	* anasarca, ascites
