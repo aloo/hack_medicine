@@ -1,6 +1,5 @@
 NEUROLOGY CURRICULUM 
 
-
 Overall goal for the M2 Neurology course:
 
 Students will acquire a core knowledge of neurologic disease and be able to apply this to a thoughtful neurologic history and physical examination that is both complete and appropriately patient focused.
