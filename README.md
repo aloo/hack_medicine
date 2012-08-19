@@ -14,4 +14,9 @@ Medical schools are accredited by governing bodies, and the curriculum they prov
 
 This is where Git comes in. Git can store and track the medical curriculum. Moreover, developers can design apps on top of the curriculum, further democratizing medical education.
 
+Contact
+--------
+
+Twitter: @AleemZa
+
 
