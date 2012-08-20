@@ -13,7 +13,7 @@ The overall goal for now is to make the first two years of medical school open w
 Why?
 ----
 
-Currently medical education sits behind an ivory wall. I believe it should be democratized. 
+Currently medical education sits behind an ivy wall. I believe it should be democratized. 
 
 Specifically, the first two years (the M1 and M2 years) of medical education is most conducive to being open. This is the basic medical sciences and is the focus of the United States Medical Licensing Exam (USMLE) Step 1 (there are 3). The M1-M2 years form the educational foundation upon which the rest of a medical career is built upon. By making it open, anyone who is interested, passionate, and persistent can attain the same educational foundation.
 
