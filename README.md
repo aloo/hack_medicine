@@ -10,9 +10,18 @@ NOTE: While anyone can study the **basic** medical science of medical curricula,
 Why Git?
 ---------
 
-Medical schools are accredited by governing bodies, and the curriculum they provide must follow certain guidelines or standardization. This means that students from Harvard to insert-medical-school-name-here are learning the same material. After all, students from the 130+ medical schools in the nation must take the same USMLE Step 1 exam!
+Medical schools are accredited by governing bodies, and the curriculum they provide must follow certain guidelines or standardization. This means that students from Harvard to insert-medical-school-name-here are learning the same basic medical science on which the rest of their medical careers are built upon. After all, students from the 130+ medical schools in the nation must take the same national USMLE Step 1 exam!
 
-This is where Git comes in. Git can store and track the medical curriculum. Moreover, developers can design apps on top of the curriculum, further democratizing medical education.
+This is where Git comes in. Git can store and track the medical curriculum. Self-motivated students can follow the curriculum. Medical educators can fork or pull the curriculum and enhance it. Moreover, developers can design apps on top of the curriculum, further democratizing medical education. Github can serve as the social glue connecting students, educators and developers!
+
+What to expect
+--------------
+
+The content here consists of folders for each class a medical student takes. Each folder is prefixed with M1 or M2, indicating the level of the material. For example, you would study M1 material before M2 material. 
+
+Within each folder, you will find a numerical list of lectures in Markdown text files. Each lecture may be broken down into learning objectives, learning tasks, and possibly resources containing relevant readings. As you may have guessed, the learning objectives are based on accredited standards set by accrediting/accredited bodies.
+
+The overall goal for now is to make the first two years of medical school open while maintaining quality.
 
 Contact
 --------
