@@ -654,6 +654,8 @@ in terms of:
 	clinical findings and course
 	treatment
 
-Classify the major types of vasculitis based on etiology, affect vessel 	(size), pathology, clinicopathologic features, and immunopathologic characteristics
+Classify the major types of vasculitis based on etiology, affect vessel (size), pathology, clinicopathologic features, and immunopathologic characteristics
+
 Describe the clinical and pathologic features of each major type of vasculitis
+
 Discuss the current concepts of etiology and pathogenesis for each major type
