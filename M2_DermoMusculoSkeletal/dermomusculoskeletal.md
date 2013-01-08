@@ -127,7 +127,6 @@ OBJECTIVES:
 LEARNING TASKS:
 
 1. Define and use in proper context:	
- 
 	* Ankylosis
 	* Arthritis
 	* arthrocentesis 
@@ -167,7 +166,6 @@ LEARNING TASKS:
 	* uveitis 
 
 2. List the four general categories of joint disease based on synovial fluid analysis, and state the expected result of each of the following analyses in each group:
-
 	* volume
 	* clarity
 	* color
@@ -192,7 +190,6 @@ Kumar & Clark's Clinical Medicine, pp. 501-505 (CLINICAL APPROACH TO THE PATIENT
 OBJECTIVE:
 
 Compare and contrast benign and malignant tumors of joints and soft tissue, in terms of:
-
 	* biology
 	* age distribution
 	* etiology
@@ -204,7 +201,6 @@ Compare and contrast benign and malignant tumors of joints and soft tissue, in t
 LEARNING TASKS:
 
 1. Define and use in proper context:
-
 	* Dermatofibroma 
 	* Desmoid tumor
 	* Dupuytren contracture 
@@ -229,7 +225,6 @@ LEARNING TASKS:
 2. List the criteria used in grading soft tissue sarcomas
 
 3. Discuss the influence of the following on the prognosis of soft tissue neoplasms in general:
-
 	* histologic classification
 	* grade
 	* stage
@@ -238,7 +233,6 @@ LEARNING TASKS:
 4. Name:  the most common neoplasm in women; the most common neoplasm in infants
 
 5. Describe the following tumors of joints and soft tissues:
- 
 	* ganglion
 	* synovial cyst
 	* tenosynovial giant cell tumor
